@@ -1,6 +1,6 @@
 ### Customer Lifetime Value Prediction Using Machine Learning
 
-#### Introduction
+####** Introduction**
 
 **Customer Lifetime Value (CLV)** is a critical metric in marketing and customer relationship management. It estimates the total revenue a business can expect from a single customer account throughout the business relationship. Accurately predicting CLV helps businesses strategize marketing efforts, allocate resources efficiently, and improve customer retention strategies.
 
